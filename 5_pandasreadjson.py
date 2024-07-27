@@ -1,0 +1,1 @@
+#JSON: Big data sets are normally stored and extracted as JSON. JSON is a plain text, but it has a format of an object.
