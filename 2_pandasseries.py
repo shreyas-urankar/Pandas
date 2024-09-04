@@ -42,7 +42,7 @@ print(result)
 
 #DataFrame:  Data sets in pandas are usually multidimensionals tables, and they are called DataFrames.
 #Series are like columns and DataFrames is whole table.
-#Wewill now create a DataFrame from 2 series.
+#We will now create a DataFrame from 2 series.
 import pandas as pd
 shreyas={"cal":[420, 380, 390], "duration": [50, 40, 45]}
 shreyasnew=pd.DataFrame(shreyas)
